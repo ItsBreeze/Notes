@@ -1,0 +1,6 @@
+= Areas of Responsibility =
+
+[[Programming]]
+[[Fighting]]
+[[Politics]]
+[[Tokenomics]]
